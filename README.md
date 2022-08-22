@@ -1,16 +1,16 @@
-# Cleancoded POS CSV APP
+# CLEANCODED Shopify POS products from CSV
 
 Version: 1.0
 
 Author: Cleancoded
 
-URI: cleancoded.com
+URI: https://cleancoded.com
 
 This gem builds Rails applications that can be embedded in the Shopify Admin.
 
 ## Introduction
 
-This gem used for CSV app for shopify site.
+This gem is used for importing Shopify POS products from CSV.
 
 ## Requirements
 
