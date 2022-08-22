@@ -2,7 +2,7 @@
 
 Version: 1.0
 
-Author: Cleancoded
+Author: CLEANCODED
 
 URI: https://cleancoded.com
 
